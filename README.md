@@ -30,6 +30,7 @@ I will be uploading notebooks, exercises, and projects daily throughout this 45-
 | Day 3 | Advanced Python / Data Science Fundamentals | ✅ Completed |
 | Day 4 | NumPy Introduction | ✅ Completed |
 | Day 5 | NumPy Introduction | ✅ Completed |
+| Day 6 | NumPy Introduction | ✅ Completed |
 
 ---
 
