@@ -34,6 +34,7 @@ I will be uploading notebooks, exercises, and projects daily throughout this 45-
 | Day 7 | NumPy Dot product| ✅ Completed |
 | Day 8 | Matplotlib Introduction | ✅ Completed |
 | Day 9 | Matplotlib Introduction | ✅ Completed |
+| Day 10 | Matplotlib Introduction | ✅ Completed |
 
 ---
 
