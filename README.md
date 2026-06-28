@@ -29,14 +29,14 @@ I will be uploading notebooks, exercises, and projects daily throughout this 45-
 | Day 2 | Python Concepts & Practice | ✅ Completed |
 | Day 3 | Advanced Python / Data Science Fundamentals | ✅ Completed |
 | Day 4 | NumPy Introduction | ✅ Completed |
-| Day 5 | NumPy Introduction | ✅ Completed |
+| Day 5 | Manipulating & comparing arrays | ✅ Completed |
 | Day 6 | NumPy Reshaping and Transposing| ✅ Completed |
 | Day 7 | NumPy Dot product| ✅ Completed |
 | Day 8 | Matplotlib Introduction | ✅ Completed |
-| Day 9 | Matplotlib Introduction | ✅ Completed |
-| Day 10 | Matplotlib Introduction | ✅ Completed |
-| Day 11| Matplotlib Introduction | ✅ Completed |
-| Day 12| Matplotlib Introduction | ✅ Completed |
+| Day 9 |Plotting data directly with pandas | ✅ Completed |
+| Day 10 | Plotting with pandas using the OO method | ✅ Completed |
+| Day 11| Customizing your plots | ✅ Completed |
+| Day 12|Matplotlib and Seaborn | ✅ Completed |
 | Day 13| Machine Learning | ✅ Completed |
 
 ---
