@@ -38,8 +38,8 @@ I will be uploading notebooks, exercises, and projects daily throughout this 45-
 | Day 11| Customizing your plots | ✅ Completed |
 | Day 12|Matplotlib and Seaborn | ✅ Completed |
 | Day 13| ML (Insurance project) | ✅ Completed |
-| Day 14| Machine Learning | ✅ Completed |
-| Day 15| Machine Learning | ✅ Completed |
+| Day 14| ML (Heart Project) | ✅ Completed |
+| Day 15| ML (Model Training) | ✅ Completed |
 
 ---
 
