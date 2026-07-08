@@ -53,7 +53,16 @@ I will be uploading notebooks, exercises, and projects daily throughout this 45-
 ├── Day2.ipynb
 ├── Day3.ipynb
 ├── Day4(NumPy).ipynb
-│
+├──
+├──
+├──
+├
+├
+├
+.
+.
+.
+
 ├── Data Science/
 │   └── Python/
 │
