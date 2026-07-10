@@ -40,8 +40,8 @@ I will be uploading notebooks, exercises, and projects daily throughout this 45-
 | Day 13| ML (Insurance project) | ✅ Completed |
 | Day 14| ML (Heart Project) | ✅ Completed |
 | Day 15| ML (Model Training) | ✅ Completed |
-| Day 16| ML (Model Training) | ✅ Completed |
-| Day 17| ML (Model Training) | ✅ Completed |
+| Day 16| ML (Methods use in Hyperparameter Tuning) | ✅ Completed |
+| Day 17| ML (Ensemble Learning) | ✅ Completed |
 ---
 
 ## 📂 Repository Structure
